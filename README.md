@@ -9,7 +9,7 @@ Our code has been tested on Python 3.7, cuda 10.1 and PyTorch 1.4.0.
 	pip install -r requirements.txt
 	# install dcn
 	cd models/archs/dcn
-	python setup.py develp
+	python setup.py develop
 
 
     
